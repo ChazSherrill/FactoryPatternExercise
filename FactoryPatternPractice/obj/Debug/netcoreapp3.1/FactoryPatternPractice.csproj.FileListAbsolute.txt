@@ -1,0 +1,12 @@
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/bin/Debug/netcoreapp3.1/FactoryPatternPractice.deps.json
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/bin/Debug/netcoreapp3.1/FactoryPatternPractice.runtimeconfig.json
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/bin/Debug/netcoreapp3.1/FactoryPatternPractice.runtimeconfig.dev.json
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/bin/Debug/netcoreapp3.1/FactoryPatternPractice.dll
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/bin/Debug/netcoreapp3.1/FactoryPatternPractice.pdb
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.csprojAssemblyReference.cache
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.AssemblyInfoInputs.cache
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.AssemblyInfo.cs
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.csproj.CoreCompileInputs.cache
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.dll
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.pdb
+/Users/chazsherrill/repos/FactoryPatternPractice/FactoryPatternPractice/obj/Debug/netcoreapp3.1/FactoryPatternPractice.genruntimeconfig.cache
